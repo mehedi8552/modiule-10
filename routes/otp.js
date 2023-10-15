@@ -23,6 +23,6 @@ router.get('/', async (req, res) => {
   }
 });
 
-// Other CRUD operations for OTPs can be added here
+
 
 module.exports = router;

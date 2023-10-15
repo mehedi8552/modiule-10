@@ -23,6 +23,5 @@ router.get('/', async (req, res) => {
   }
 });
 
-// Other CRUD operations for products can be added here
 
 module.exports = router;
